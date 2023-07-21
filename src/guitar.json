@@ -1,0 +1,71 @@
+{
+    "articles" :  [
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "type":"guitars",
+            "title": "Kadence-rosewood-Guitar",
+            "description": "★ Design - The High Gloss finish, Simple head design, Streamlined Cutaway Curvature makes the head and the body integrated, beautiful.",
+            "url": "/articles",
+            "urlToImage": "https://m.media-amazon.com/images/I/71SUhLLH8UL._SY879_.jpg",
+            "price":"$10,000",
+            "details": "Mahogany Body (21 inch Soprano)- This simple and elegant ukulele features a mahogany body. It fits well in your hands so that you strum it and sing along to all your favourite songs Ideal Gift - Are you interested in playing ukulele or just like music? Do you want to pick up an instrument? Kadence 21 inch ukulele is suitable for adults, kids, beginners, players or professionals starting practice. Ukulele is also a desired gift for birthday, housewarming, graduation, Christmas, or Diwali. Rosewood Fretboard- You can enjoy a soft feel as you keep playing, thanks to the ukuleles rosewood fretboard. You can achieve the perfect tone, thanks to the properly aligned frets.*String Vibration- Optimal transfer of string vibration can be achieved, thanks to the bone nut and saddle thats properly balanced with a wooden bridge. The ukulele is fashioned with a tie-bar bridge so that the strings are firmly threaded.*GCEA Tuning- The ukulele nylon strings that can hold the GCEA tuning. It can play and hold your tune as its strings make use of the classical tie process."
+
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "type":"guitars",
+            "title": "Yamaha-F280-Acoustic",
+            "description": "★ Rosewood fingerboard,Gloss Top, String Material: Stainless Steel",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://m.media-amazon.com/images/I/51LAQ0O3q7L._SY879_.jpg" ,
+            "price":"$8,000",
+            "details":"Arched Back Body Design : For optimum resonance the UK-100 Concert comes in an arched back body shape, this particular feature for a ukulele gives room for an extra response from the concert-sized instrument, giving the ukulele a fuller sound and longer sustains compared to any other ukulele in the league.Sturdy Mahogany Neck Construction : The Neck of the Ukulele is crafted from Mahogany Laminate, which imparts strength and rigidity to the overall construction, while providing a clean and even sound."
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "type":"guitars",
+            "title": "Yamaha-Acoustic-Guitar-Black",
+            "description": "★ Nato fret board, Rosewood bridge Snorkeling frets: 20",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://m.media-amazon.com/images/I/51SUbzT+EoL._SY879_.jpg",
+            "price":"$15,000",
+            "details":" Quality Strings -The surface is coated with a bronze coating which doest rust easliy and prolongs the use of the strings. Adjustable Action - Built-in truss rod helps balance the tension caused by strings or temperature change, for a straight and durable neck.Bridge - The Indian Rosewood bridge has high hardness, strong vibration conductivity, stable and rich tone transmission. Accessories - Strap, Strings, Picks and Bag Included."
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "type":"guitars",
+            "title": "Bass-Guitar-455",
+            "description": "★ Plain board, Snorkeling frets: 10, Rosewood bridge",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://m.media-amazon.com/images/I/31rygpMdSiL._SX300_SY300_QL70_FMwebp_.jpg",
+            "price":"$5,000",
+            "details":"ACOUSTIC-ELECTRIC GUITAR: The first choice from the house of Kadence comes from the Acoustica series. Our semi acoustic-electric guitars are built to have great sound quality, high durability, and increased ease of use for both beginners as well as professionals. The 40-inch stature makes it easy to handle and carry around without compromising on the sound quality. Made from zebra wood, our electro acoustic guitars come with a pickup, inbuilt tuner and bag. Everything you need to start playing. ADJUSTABLE ACTION: Built-in truss rod can balance the tension caused by strings or temperature change shrinking, for a straight and durable neck. The adjustable electric acoustic guitars neck allows your hand to stay "
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "type":"guitars",
+            "title": "Yamaha2-455",
+            "description": "★ Plain white board, Clean Rosewood bridge Shiny back",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://m.media-amazon.com/images/I/51WEH8mmx7L._SY879_.jpg",
+            "price":"$9,000",
+            "details":"ACCURATE TUNE: The 40inch cutaway guitar acoustic electric employs an 18:1 premium machine head that runs very smooth with no slack. It can help you to lock the string in position and adjust the pitch more accurately. The Kadence guitar is easy to tune and hold tune after the first tune-up of strings. Kadence guitars have better bass, better volume, and fuller sound. Suited for all styles of music, and guitarists over 14 years old, especially beginners, students, or adults.EASY CUTAWAY DESIGN TO PLAY: The cutaway design of this acoustic guitar allows you easier access to the upper frets."
+         
+        }
+    ]
+}
