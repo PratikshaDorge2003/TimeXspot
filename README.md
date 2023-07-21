@@ -39,40 +39,11 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-Overview
+### `Overview`
 This project is a web-based application that provides a user-friendly interface for displaying a list of products along with their detailed information. Users can browse through the list of products and access specific product details by clicking on the "Read More" button associated with each product.
 
-Features
+### `Features`
 Product List: The main page of the website displays a list of various products. Each product is presented with its name, image, and a brief description.
 
 Read More: Users can click on the "Read More" button for any product to access its detailed information.
@@ -83,5 +54,5 @@ Responsive Design: The application is designed to be responsive, ensuring a seam
 
 User-Friendly Interface: The website aims to provide an intuitive and user-friendly interface, making it easy for users to navigate and find the desired product information.
 
-Technologies Used
+### `Technology Used`
 Front-end:Reactjs library, HTML, CSS, JavaScript
