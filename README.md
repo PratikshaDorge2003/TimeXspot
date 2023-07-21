@@ -68,3 +68,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Overview
+This project is a web-based application that provides a user-friendly interface for displaying a list of products along with their detailed information. Users can browse through the list of products and access specific product details by clicking on the "Read More" button associated with each product.
+
+Features
+Product List: The main page of the website displays a list of various products. Each product is presented with its name, image, and a brief description.
+
+Read More: Users can click on the "Read More" button for any product to access its detailed information.
+
+Product Details: Clicking on the "Read More" button opens a new page displaying comprehensive details about the selected product. This information may include product specifications, price, availability, customer reviews, and any other relevant data.
+
+Responsive Design: The application is designed to be responsive, ensuring a seamless experience across different devices and screen sizes.
+
+User-Friendly Interface: The website aims to provide an intuitive and user-friendly interface, making it easy for users to navigate and find the desired product information.
+
+Technologies Used
+Front-end:Reactjs library, HTML, CSS, JavaScript
